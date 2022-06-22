@@ -1,0 +1,144 @@
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Sketch2Code.AI.dll.config
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Sketch2Code.AI.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Sketch2Code.AI.pdb
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Net.Http.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Permissions.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Spatial.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Spatial.xml
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.csproj.AssemblyReference.cache
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.csproj.CoreCompileInputs.cache
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.csproj.CopyComplete
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.pdb
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Sketch2Code.AI.dll.config
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Sketch2Code.AI.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Sketch2Code.AI.pdb
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Net.Http.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Permissions.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Spatial.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\System.Spatial.xml
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.csproj.AssemblyReference.cache
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.csproj.CoreCompileInputs.cache
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.csproj.CopyComplete
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.dll
+C:\Users\pekeerthana\Downloads\Sketch2Code-Master (2)\Sketch2Code-master\Sketch2Code.AI\obj\Debug\Sketch2Code.AI.pdb
