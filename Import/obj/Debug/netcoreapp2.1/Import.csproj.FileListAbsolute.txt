@@ -1,0 +1,13 @@
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\bin\Debug\netcoreapp2.1\Import.deps.json
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\bin\Debug\netcoreapp2.1\Import.runtimeconfig.json
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\bin\Debug\netcoreapp2.1\Import.runtimeconfig.dev.json
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\bin\Debug\netcoreapp2.1\Import.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\bin\Debug\netcoreapp2.1\Import.pdb
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\obj\Debug\netcoreapp2.1\Import.csproj.AssemblyReference.cache
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\obj\Debug\netcoreapp2.1\Import.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\obj\Debug\netcoreapp2.1\Import.AssemblyInfoInputs.cache
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\obj\Debug\netcoreapp2.1\Import.AssemblyInfo.cs
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\obj\Debug\netcoreapp2.1\Import.csproj.CoreCompileInputs.cache
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\obj\Debug\netcoreapp2.1\Import.dll
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\obj\Debug\netcoreapp2.1\Import.pdb
+C:\Users\dsahithirani\Desktop\Sketch2Code-master\Import\obj\Debug\netcoreapp2.1\Import.genruntimeconfig.cache
